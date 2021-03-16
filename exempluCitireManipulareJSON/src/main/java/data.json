@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John Muntean",
+      "uni": "UBB",
+      "address": {
+        "street": "Mihai Viteazu",
+        "city": "Cluj-Napoca"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Emy Muntean",
+      "uni": "UTCB",
+      "address": {
+        "street": "Mihail Kogalnicenu",
+        "city": "Bucuresti"
+      }
+    }
+  ]
+}
